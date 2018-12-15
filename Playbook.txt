@@ -1,0 +1,36 @@
+Playbook
+
+
+	1. Running test cases
+	2. Resetting System
+	3. Booking taxi source - 2,3 to destination 4,5
+		1. taxi 1 will be booked
+
+	4. Increasing time by 7
+
+	5. Booking cab source - 3,4 to destination 5,6
+		1. taxi 2 will be booked
+
+	6. Increasing time by 2
+		1. taxi1 finished ride
+		2. taxi2 on the way to pickup location
+
+	7. Increasing time by 5
+		1. taxi2 starts journey towards destination
+
+	8. Book another cab source 4,5 to destination 5,6
+	9. Increase time by 7
+		1. Both taxi1 and taxi2 finishes ride and at location 5,6
+
+	10. Book another cab from source 7,8 to destination 10,11
+		1. Taxi1 will be booked 
+
+	11. Increase time by 6
+		1. Taxi1 will start journey
+
+	12. Increase time by 5
+		1. Taxi1 will finish journey
+
+
+
+ 
